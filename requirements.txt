@@ -1,0 +1,10 @@
+python-louvain==0.16
+tqdm
+openpyxl
+pandas
+numpy
+matplotlib
+networkx==3.2.1
+
+seaborn
+python-louvain
